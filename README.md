@@ -1,2 +1,3 @@
-# CS310
-Computer Science 310
+
+<h1>CS 310 C++</h1>
+<h2>Contributors</h2>
