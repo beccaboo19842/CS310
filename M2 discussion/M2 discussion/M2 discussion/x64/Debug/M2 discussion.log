@@ -1,0 +1,4 @@
+﻿  M2 discussion.cpp
+C:\CS 310\CS310\M2 discussion\M2 discussion\M2 discussion.cpp(16,5): error C2144: syntax error: 'double' should be preceded by ';'
+C:\CS 310\CS310\M2 discussion\M2 discussion\M2 discussion.cpp(53,5): error C3861: '_getch': identifier not found
+C:\CS 310\CS310\M2 discussion\M2 discussion\M2 discussion.cpp(56,1): error C1004: unexpected end-of-file found
