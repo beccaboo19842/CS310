@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Chapter 3\\Chaper 3 exercise 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA170E-3DD7-41EA-BDCF-9B8908D11611}|Chaper 3 exercise 7.vcxproj|C:\\CS 310\\CS310\\Chapter 3\\Chaper 3 exercise 7\\Chaper 3 exercise 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0DA170E-3DD7-41EA-BDCF-9B8908D11611}|Chaper 3 exercise 7.vcxproj|solutionrelative:Chaper 3 exercise 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chaper 3 exercise 7.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Chapter 3\\Chaper 3 exercise 7\\Chaper 3 exercise 7.cpp",
+              "RelativeDocumentMoniker": "Chaper 3 exercise 7.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Chapter 3\\Chaper 3 exercise 7\\Chaper 3 exercise 7.cpp",
+              "RelativeToolTip": "Chaper 3 exercise 7.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T23:10:46.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
