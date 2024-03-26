@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Chapter 3\\Hahn_M3 Discussion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65F48CF-912A-481A-B5C3-CDCB4D739E31}|Hahn_M3 Discussion.vcxproj|C:\\CS 310\\CS310\\Chapter 3\\Hahn_M3 Discussion\\Hahn_M3 Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C65F48CF-912A-481A-B5C3-CDCB4D739E31}|Hahn_M3 Discussion.vcxproj|solutionrelative:Hahn_M3 Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hahn_M3 Discussion.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Chapter 3\\Hahn_M3 Discussion\\Hahn_M3 Discussion.cpp",
+              "RelativeDocumentMoniker": "Hahn_M3 Discussion.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Chapter 3\\Hahn_M3 Discussion\\Hahn_M3 Discussion.cpp",
+              "RelativeToolTip": "Hahn_M3 Discussion.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T21:41:46.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
