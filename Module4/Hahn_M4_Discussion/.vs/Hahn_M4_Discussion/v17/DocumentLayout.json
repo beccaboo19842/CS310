@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Module4\\Hahn_M4_Discussion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{998861BF-710D-4AEA-99E8-C22753949405}|Hahn_M4_Discussion.vcxproj|C:\\CS 310\\CS310\\Module4\\Hahn_M4_Discussion\\Hahn_M4_Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{998861BF-710D-4AEA-99E8-C22753949405}|Hahn_M4_Discussion.vcxproj|solutionrelative:Hahn_M4_Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hahn_M4_Discussion.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Module4\\Hahn_M4_Discussion\\Hahn_M4_Discussion.cpp",
+              "RelativeDocumentMoniker": "Hahn_M4_Discussion.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Module4\\Hahn_M4_Discussion\\Hahn_M4_Discussion.cpp",
+              "RelativeToolTip": "Hahn_M4_Discussion.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T03:55:05.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

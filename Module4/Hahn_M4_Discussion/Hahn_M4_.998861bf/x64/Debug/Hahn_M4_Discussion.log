@@ -1,0 +1,4 @@
+﻿  Hahn_M4_Discussion.cpp
+C:\CS 310\CS310\Module4\Hahn_M4_Discussion\Hahn_M4_Discussion.cpp(21,39): error C2059: syntax error: ')'
+C:\CS 310\CS310\Module4\Hahn_M4_Discussion\Hahn_M4_Discussion.cpp(22,5): error C2143: syntax error: missing ';' before '{'
+C:\CS 310\CS310\Module4\Hahn_M4_Discussion\Hahn_M4_Discussion.cpp(23,17): error C2065: 'l': undeclared identifier
