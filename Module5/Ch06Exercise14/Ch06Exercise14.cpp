@@ -3,7 +3,7 @@ Rebecca Hahn
 CS 310
 Professor Krasso
 04/10/2024
-Tax program
+Tax program that calculates billing amount for both low income and regular income people.
 */
 
 #include <iostream>
