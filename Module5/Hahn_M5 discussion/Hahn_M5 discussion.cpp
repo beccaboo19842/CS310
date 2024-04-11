@@ -1,8 +1,7 @@
 /*
-Rebecca Hahn
-04/10/2024
-Professor Krasso
-CS 310
+Student name: Rebecca Hahn
+Date: 04/10/2024
+File name: Hahn_M5 discussion 
 
 */
 
