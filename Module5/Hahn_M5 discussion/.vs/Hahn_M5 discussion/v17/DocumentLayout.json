@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Module5\\Hahn_M5 discussion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61798821-6B6E-4BC1-9BBE-C559A50ACE23}|Hahn_M5 discussion.vcxproj|C:\\CS 310\\CS310\\Module5\\Hahn_M5 discussion\\Hahn_M5 discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61798821-6B6E-4BC1-9BBE-C559A50ACE23}|Hahn_M5 discussion.vcxproj|solutionrelative:Hahn_M5 discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hahn_M5 discussion.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Module5\\Hahn_M5 discussion\\Hahn_M5 discussion.cpp",
+              "RelativeDocumentMoniker": "Hahn_M5 discussion.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Module5\\Hahn_M5 discussion\\Hahn_M5 discussion.cpp",
+              "RelativeToolTip": "Hahn_M5 discussion.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T02:48:55.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

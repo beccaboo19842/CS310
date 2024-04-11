@@ -1,0 +1,8 @@
+﻿  Hahn_M5 discussion.cpp
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(16,12): error C2059: syntax error: 'constant'
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(22,10): error C2065: 'i': undeclared identifier
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(22,17): error C2065: 'i': undeclared identifier
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(22,27): error C2065: 'i': undeclared identifier
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(23,17): error C2065: 'i': undeclared identifier
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(24,21): error C2065: 'i': undeclared identifier
+C:\CS 310\CS310\Module5\Hahn_M5 discussion\Hahn_M5 discussion.cpp(28,1): error C2143: syntax error: missing ';' before '}'
