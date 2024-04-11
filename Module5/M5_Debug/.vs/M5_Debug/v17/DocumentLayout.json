@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Module5\\M5_Debug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA373FDC-3B9B-4962-8C99-4715A810CCFC}|M5_Debug.vcxproj|C:\\CS 310\\CS310\\Module5\\M5_Debug\\M5_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA373FDC-3B9B-4962-8C99-4715A810CCFC}|M5_Debug.vcxproj|solutionrelative:M5_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M5_Debug.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Module5\\M5_Debug\\M5_Debug.cpp",
+              "RelativeDocumentMoniker": "M5_Debug.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Module5\\M5_Debug\\M5_Debug.cpp",
+              "RelativeToolTip": "M5_Debug.cpp",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T03:24:58.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
