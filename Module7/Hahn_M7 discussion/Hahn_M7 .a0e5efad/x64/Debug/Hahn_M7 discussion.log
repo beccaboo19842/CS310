@@ -1,0 +1,241 @@
+﻿  Hahn_M7 discussion.cpp
+C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,13): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(23,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
+C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9): error C2678: binary '>>': no operator found which takes a left-hand operand of type 'std::ostream' (or there is no acceptable conversion)
+  C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  could be 'built-in C++ operator>>(int, int)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'>>': cannot convert argument 1 from 'std::ostream' to 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(901,9):
+  or       '_Istr &&std::operator >>(_Istr &&,_Ty &&)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'_Istr &&std::operator >>(_Istr &&,_Ty &&)': could not deduce template argument for '__formal'
+  		C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(900,102):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(888,31):
+  or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ostream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(882,31):
+  or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ostream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(859,32):
+  or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'std::ostream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(853,31):
+  or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ostream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(848,31):
+  or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'std::ostream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\istream(843,32):
+  or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'std::ostream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xstring(5179,32):
+  or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  	'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'std::ostream'
+  C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(24,9):
+  while trying to match the argument list '(std::ostream, int)'
+  
+C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  could be 'built-in C++ operator<<(int, int)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'<<': cannot convert argument 1 from 'std::istream' to 'int'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(29,9):
+  while trying to match the argument list '(std::istream, int)'
+  
+C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,9): error C2676: binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  could be 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1003,9):
+  or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+  		C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(1002,103):
+  		'<template-parameter>': you cannot create a pointer to a reference
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(892,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(849,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(3598,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\memory(1946,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\xstring(5228,32):
+  or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+  	C:\CS 310\CS310\Module7\Hahn_M7 discussion\Hahn_M7 discussion.cpp(35,5):
+  	'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::istream'
+  
