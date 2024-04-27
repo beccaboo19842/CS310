@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Module7\\Ch08Exercise7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA51C80-58CA-40C2-8A2B-59CE9FFD178E}|Ch08Exercise7.vcxproj|C:\\CS 310\\CS310\\Module7\\Ch08Exercise7\\Ch08Exercise7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BA51C80-58CA-40C2-8A2B-59CE9FFD178E}|Ch08Exercise7.vcxproj|solutionrelative:Ch08Exercise7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ch08Exercise7.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Module7\\Ch08Exercise7\\Ch08Exercise7.cpp",
+              "RelativeDocumentMoniker": "Ch08Exercise7.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Module7\\Ch08Exercise7\\Ch08Exercise7.cpp",
+              "RelativeToolTip": "Ch08Exercise7.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-27T20:17:53.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
