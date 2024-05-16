@@ -1,0 +1,6 @@
+﻿  Hahn_M10 debug.cpp
+C:\CS 310\CS310\Module9\Hahn_M10 debug\Hahn_M10 debug.cpp(17,20): error C2440: 'initializing': cannot convert from 'int' to 'int *'
+  C:\CS 310\CS310\Module9\Hahn_M10 debug\Hahn_M10 debug.cpp(17,20):
+  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\CS 310\CS310\Module9\Hahn_M10 debug\Hahn_M10 debug.cpp(35,5): error C2146: syntax error: missing ';' before identifier 'cout'

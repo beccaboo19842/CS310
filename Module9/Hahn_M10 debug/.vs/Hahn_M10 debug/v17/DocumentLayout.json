@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS 310\\CS310\\Module9\\Hahn_M10 debug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7A6783-7D45-45F4-98AF-DC0647F6AF5A}|Hahn_M10 debug.vcxproj|C:\\CS 310\\CS310\\Module9\\Hahn_M10 debug\\Hahn_M10 debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F7A6783-7D45-45F4-98AF-DC0647F6AF5A}|Hahn_M10 debug.vcxproj|solutionrelative:Hahn_M10 debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hahn_M10 debug.cpp",
+              "DocumentMoniker": "C:\\CS 310\\CS310\\Module9\\Hahn_M10 debug\\Hahn_M10 debug.cpp",
+              "RelativeDocumentMoniker": "Hahn_M10 debug.cpp",
+              "ToolTip": "C:\\CS 310\\CS310\\Module9\\Hahn_M10 debug\\Hahn_M10 debug.cpp",
+              "RelativeToolTip": "Hahn_M10 debug.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T22:03:39.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
