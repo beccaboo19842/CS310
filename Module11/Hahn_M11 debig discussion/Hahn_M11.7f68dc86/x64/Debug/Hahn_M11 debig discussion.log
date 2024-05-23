@@ -1,0 +1,8 @@
+﻿  Hahn_M11 debig discussion.cpp
+C:\CS 310\CS310\Module11\Hahn_M11 debig discussion\Hahn_M11 debig discussion.cpp(21,22): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'int'
+  C:\CS 310\CS310\Module11\Hahn_M11 debig discussion\Hahn_M11 debig discussion.cpp(21,22):
+  The initializer contains too many elements
+  
+C:\CS 310\CS310\Module11\Hahn_M11 debig discussion\Hahn_M11 debig discussion.cpp(21,28): error C2059: syntax error: ';'
+C:\CS 310\CS310\Module11\Hahn_M11 debig discussion\Hahn_M11 debig discussion.cpp(22,10): error C2947: expecting '>' to terminate template-argument-list, found '<<'
+C:\CS 310\CS310\Module11\Hahn_M11 debig discussion\Hahn_M11 debig discussion.cpp(21,15): error C2062: type 'unknown-type' unexpected
