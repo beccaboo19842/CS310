@@ -1,0 +1,21 @@
+﻿  Hahn_M11 bug fixes.cpp
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244: 'return': conversion from 'U' to 'T', possible loss of data
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:         with
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:         [
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:             U=double
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:         ]
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:         and
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:         [
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:             T=int
+C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14): warning C4244:         ]
+  C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(18,14):
+  the template instantiation context (the oldest one first) is
+  	C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\Hahn_M11 bug fixes.cpp(33,35):
+  	see reference to function template instantiation 'T max<int,double>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=double
+          ]
+  
+  Hahn_M11 bug fixes.vcxproj -> C:\CS 310\CS310\Module11\Hahn_M11 bug fixes\x64\Debug\Hahn_M11 bug fixes.exe
